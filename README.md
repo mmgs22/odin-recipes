@@ -1,0 +1,2 @@
+This project will serve as a checkpoint to test my knowledge of HTML by creating a simple recipe site. This site will consist of a main index page that links to several recipes. 
+Once I have completed this project, I will have demonstrated my knowledge of HTML syntax, basic structure, linking, and several common elements & their accompanying attributes.
